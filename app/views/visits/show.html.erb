@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @visit.url %>
+</p>
+
+<p>
+  <strong>Time on:</strong>
+  <%= @visit.time_on %>
+</p>
+
+<p>
+  <strong>Time off:</strong>
+  <%= @visit.time_off %>
+</p>
+
+<%= link_to 'Edit', edit_visit_path(@visit) %> |
+<%= link_to 'Back', visits_path %>

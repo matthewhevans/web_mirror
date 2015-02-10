@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  time_on: 2015-02-09 21:59:02
+  time_off: 2015-02-09 21:59:02
+
+two:
+  url: MyString
+  time_on: 2015-02-09 21:59:02
+  time_off: 2015-02-09 21:59:02
